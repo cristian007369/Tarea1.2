@@ -1,4 +1,4 @@
-# Tarea1.2
+# Tarea_1.2
 Verificar cuál de tres números es mayor
 ## Diseño
 ### Diagrama de flujo
